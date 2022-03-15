@@ -7,7 +7,7 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 ## Interests
 
 - Cybersecurity
-- Blockchain
+- Python
 - Combinatorics
 - Front-end Web Development
 
