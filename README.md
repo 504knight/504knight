@@ -6,12 +6,27 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 
 ## Interests
 
-- Cybersecurity
 - Python
 - Combinatorics
 - Front-end Web Development
+- React
+- Pandas
+- Machine Learning
 
-## Current Classes
+## Fall 2022 Courses
+- [CS 3100 - Operating Systems & Concurrency](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286641)
+- [CS 3200 - Mobile Application Development](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286642)
+- [CS 4320 - Intro to Machine Learning](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291209)
+- [CS 4700 - Programming Languages](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286647)
+- [CS 5800 - Intro to Database Systems](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286664)
+
+## Summer 2022 Courses
+- [HDFS 3350 - Family Finance](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=287290)
+- [PHYS 3030 - The Universe](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=289150)
+- [CS 5700 - Object Oriented Software Development](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286663)
+- [CS 5890 - Intro to DevOps & Cloud Based Services](https://en.wikipedia.org/wiki/DevOps)
+
+## Spring 2022 Courses
 
 - [CS 3450 - Intro to Software Engineering](https://catalog.usu.edu/preview_course_nopop.php?catoid=12&coid=88838)
 - [MATH 5810 - Applied Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
@@ -21,8 +36,7 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 ## Current Projects
 
 - In home Cybersecurity Lab with Raspberry Pi
-- Odd Jobs Web App
-- Omni CMS En Masse File Rename Gadget
+- Automated USU Library Room Scheduler
 
 ## Contact Information
 
