@@ -1,8 +1,9 @@
 # @504knight
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/logan-ballard-7241a2146/)
 
 ## Introduction
 
-Hello, I'm @504knight and I am a student studying Computer Science at Utah State University. I plan to graduate May of 2023.
+Hello, I'm @504knight and I am a student studying Computer Science at Utah State University. I am graduating May of 2023.
 
 ## Interests
 
@@ -12,6 +13,14 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 - React
 - Pandas
 - Machine Learning
+
+## Spring 2023 Courses
+- [CS 5050 - Advanced Algorithms](https://catalog.usu.edu/preview_course.php?catoid=35&coid=286652)
+- [CS 5830 - Data Science in Practice](https://catalog.usu.edu/preview_course.php?catoid=35&coid=291540)
+- [CS 5410 - Game Development](https://catalog.usu.edu/preview_course.php?catoid=35&coid=286657)
+- [CS 4610 - Modern Web Development](https://catalog.usu.edu/preview_course.php?catoid=35&coid=293619)
+- [PE 1527 - Rock Climbing](https://catalog.usu.edu/preview_course.php?catoid=35&coid=288940)
+- [PE 1085 - Weight Training](https://catalog.usu.edu/preview_course.php?catoid=35&coid=288873)
 
 ## Fall 2022 Courses
 - [CS 3100 - Operating Systems & Concurrency](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286641)
