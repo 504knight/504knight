@@ -8,10 +8,11 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 ## Interests
 
 - Python
+- Kotlin
 - Combinatorics
-- Front-end Web Development
-- React
-- Pandas
+- Front-end Development
+- React + Typescript
+- Pandas, NumPy, Sklearn
 - Machine Learning
 
 ## Spring 2023 Courses
