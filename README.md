@@ -21,7 +21,6 @@ Hello, I'm @504knight and I am a student studying Computer Science at Utah State
 - [CS 5410 - Game Development](https://catalog.usu.edu/preview_course.php?catoid=35&coid=286657)
 - [CS 4610 - Modern Web Development](https://catalog.usu.edu/preview_course.php?catoid=35&coid=293619)
 - [PE 1527 - Rock Climbing](https://catalog.usu.edu/preview_course.php?catoid=35&coid=288940)
-- [PE 1085 - Weight Training](https://catalog.usu.edu/preview_course.php?catoid=35&coid=288873)
 
 ## Fall 2022 Courses
 - [CS 3100 - Operating Systems & Concurrency](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286641)
