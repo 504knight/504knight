@@ -2,7 +2,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/logan-ballard-7241a2146/)
 
 ## Introduction
-I'm @504knight, graduate from Utah State University and Jr Software Engineer at [Kikoda](https://kikoda.com/)
+I'm @504knight, graduate of Utah State University and Jr Software Engineer at [Kikoda](https://kikoda.com/)
 
 ## Interests
 - Combinatorics
